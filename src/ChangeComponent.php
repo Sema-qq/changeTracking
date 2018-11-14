@@ -1,6 +1,6 @@
 <?php
 
-namespace changeTracking;
+namespace Sema\ChangeTracking;
 
 use yii\db\ActiveRecord;
 use yii\web\Application;

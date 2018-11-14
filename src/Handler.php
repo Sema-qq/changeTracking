@@ -1,6 +1,6 @@
 <?php
 
-namespace changeTracking;
+namespace Sema\ChangeTracking;
 
 /**
  * Интерфейс для обработчиков

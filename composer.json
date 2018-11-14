@@ -1,0 +1,26 @@
+{
+  "name": "Sema/ChangeTracking",
+  "description": "Поведение и компонент для отслеживания изменений",
+  "version": "1.0.0",
+  "type": "library",
+  "license": "MIT",
+  "keywords": [
+    "yii2"
+  ],
+  "authors": [
+    {
+      "name": "Semenov Kirill",
+      "email": "truehueta@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Sema\\ChangeTracking\\": "./"
+    }
+  },
+  "require": {
+    "php": ">=5.4"
+  },
+  "minimum-stability": "stable"
+}
